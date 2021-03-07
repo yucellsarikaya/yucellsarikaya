@@ -10,5 +10,4 @@
 [linkedin]: https://www.linkedin.com/in/y%C3%BCcel-sar%C4%B1kaya-86232b166/
 [email]: mailto:berkaykata@gmail.com
 
-# yucellsarikaya
  
