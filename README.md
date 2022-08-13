@@ -8,4 +8,6 @@
 [linkedin]: https://www.linkedin.com/in/y%C3%BCcel-sar%C4%B1kaya-86232b166/
 [email]: mailto:berkaykata@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yucellsarikaya&theme=tokyonight)
+
  
