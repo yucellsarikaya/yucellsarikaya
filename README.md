@@ -1,11 +1,18 @@
-<img src="https://github-readme-stats.vercel.app/api?username=yucellsarikaya&show_icons=true&theme=radical" width="425"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucellsarikaya&layout=compact&show_icons=true&theme=radical" height="168"/>
+# 💫 About Me:
+software, js <3
 
-### Contact with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://www.iconfinder.com/icons/5296501/download/svg/512" />][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://www.iconfinder.com/icons/4202011/download/svg/512" />][email]
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Yucel Sarıkaya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yucellsarikaya) 
 
-[linkedin]: https://www.linkedin.com/in/y%C3%BCcel-sar%C4%B1kaya-86232b166/
-[email]: mailto:berkaykata@gmail.com
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yucellsarikaya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yucellsarikaya&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yucellsarikaya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
- 
+---
+[![](https://visitcount.itsvg.in/api?id=yucellsarikaya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
