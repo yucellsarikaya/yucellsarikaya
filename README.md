@@ -1,5 +1,5 @@
 # 💫 About Me:
-software, js <3
+software<3
 
 
 ## 🌐 Socials:
