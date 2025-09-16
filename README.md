@@ -8,7 +8,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yucellsarikaya) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yucellsarikaya) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@yucellsarkaya)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@yucellsarkaya) 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@yucellsarikaya)
 
 ---
 
